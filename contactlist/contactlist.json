@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "lastname": "Müller",
+      "firstname": "Fritz",
+      "nickname": "coolfritzi",
+      "image": "",
+      "available": "2",
+      "status_message": "Available"
+    },
+    {
+      "lastname": "Müller",
+      "firstname": "Karin",
+      "nickname": "karin23",
+      "image": "",
+      "available": "1",
+      "status_message": "Always busy!"
+    },
+    {
+      "lastname": "Berger",
+      "firstname": "Marion",
+      "nickname": "ultraqueen",
+      "image": "",
+      "available": "0",
+      "status_message": "With our partner - meeting"
+    },
+    {
+      "lastname": "Schmidt",
+      "firstname": "Miriam",
+      "nickname": "busybee",
+      "image": "",
+      "available": "0",
+      "status_message": "Vacation ... sooon!"
+    }
+  ],
+  "user_count" : "4"
+}

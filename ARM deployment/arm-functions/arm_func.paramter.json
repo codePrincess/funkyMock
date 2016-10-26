@@ -1,0 +1,18 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "appName": {
+      "value": "funkyMockServerDeployment"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "repoUrl": {
+      "value": "https://github.com/codePrincess/funkyMock"
+    },
+    "branch": {
+      "value": "master"
+     }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "incoming_user" : {
+    "user_id": "238356",
+    "lastname": "Müller",
+    "firstname": "Karin",
+    "nickname": "karin23",
+    "image": "",
+    "available": "1",
+    "status_message": "Always busy..."
+  },
+  "outgoing_user" : {
+    "id": "473625",
+    "lastname": "Berger",
+    "firstname": "Marion",
+    "nickname": "ultraqueen",
+    "image": "",
+    "available": "0",
+    "status_message": "With our partners - lunch"
+  },
+  "messages": [
+    {
+      "timestamp": "1477497988",
+      "user_id": "238356",
+      "message": "Everything prepared for the meeting?"
+    },
+    {
+      "timestamp": "1477498049",
+      "user_id": "473625",
+      "message": "Sure, I just reviewd the whole content with Marc ;)"
+    },
+    {
+      "timestamp": "1477498096",
+      "user_id": "238356",
+      "message": "Good to know that he already saw the deck - hates surprises :D"
+    }
+  ]
+}
+    
