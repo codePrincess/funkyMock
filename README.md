@@ -69,6 +69,9 @@ So this is it! Just those few steps and you have a ready to go mock server! And 
 > **Reuse your JSONs**
 > When you already have a finished API definition up and running in Swagger with JSON examples attached to it, you can use exactly those JSON files for your mock server.
 
+There is a full blown how-to available for you on [how to get started with Azure CLI and ARM deployment with Azure Functions](http://iamcodeprincess.tumblr.com/post/152248954131/your-daily-business-quote), if this walkthrough might be a bit too short
+
+
 Nice one! 
 
 So have fun and share your feedback with me :)
