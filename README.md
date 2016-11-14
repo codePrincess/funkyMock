@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+
 #Get Your Funky Mock Server!
 
 This repo helps you getting your own mock server with your defined endpoints up and running in no time with Azure Functions. How you do this? Just follow the next few steps!
