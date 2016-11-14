@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]() <img src="https://img.shields.io/badge/azure-functions-609dff.svg" alt="Azure Functions" /> 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]() <img src="https://img.shields.io/badge/azure-functions-ffba1c.svg" alt="Azure Functions" /> 
 
 #Get Your Funky Mock Server!
 
