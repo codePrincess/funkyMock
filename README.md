@@ -1,11 +1,8 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]() <img src="https://img.shields.io/badge/azure-functions-ffba1c.svg" alt="Azure Functions" /> <img src="https://img.shields.io/badge/Azure CLI-compatible-brightgreen.svg" alt="Azure CLI compatible" /> 
 
-#Get Your Funky Mock Server!
-
-This repo helps you getting your own mock server with your defined endpoints up and running in no time with Azure Functions. How you do this? Just follow the next few steps!
-
 <img src="https://dl.dropboxusercontent.com/u/2095227/blogscribbels/funkymock.jpg" alt="Get your funky mock server" /> 
 
+This repo helps you getting your own mock server with your defined endpoints up and running in no time with Azure Functions. How you do this? Just follow the next few steps!
 
 > **Prerequisites**
 
