@@ -1,4 +1,6 @@
-#Get Your Funky Mock Server!
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]() <img src="https://img.shields.io/badge/azure-functions-ffba1c.svg" alt="Azure Functions" /> <img src="https://img.shields.io/badge/Azure CLI-compatible-brightgreen.svg" alt="Azure CLI compatible" /> 
+
+<img src="https://dl.dropboxusercontent.com/u/2095227/blogscribbels/funkymock.jpg" alt="Get your funky mock server" /> 
 
 This repo helps you getting your own mock server with your defined endpoints up and running in no time with Azure Functions. How you do this? Just follow the next few steps!
 
@@ -69,7 +71,7 @@ So this is it! Just those few steps and you have a ready to go mock server! And 
 > **Reuse your JSONs**
 > When you already have a finished API definition up and running in Swagger with JSON examples attached to it, you can use exactly those JSON files for your mock server.
 
-There is a full blown how-to available for you on [how to get started with Azure CLI and ARM deployment with Azure Functions](http://iamcodeprincess.tumblr.com/post/152248954131/your-daily-business-quote), if this walkthrough might be a bit too short
+There is a full blown how-to available for you on [how to get started with Azure CLI and ARM deployment with Azure Functions](https://medium.com/@codeprincess/your-daily-business-quote-567ab8ca7d06#.cnw68kjl4), if this walkthrough might be a bit too short
 
 
 Nice one! 
