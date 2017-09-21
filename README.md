@@ -1,5 +1,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]() <img src="https://img.shields.io/badge/azure-functions-ffba1c.svg" alt="Azure Functions" /> <img src="https://img.shields.io/badge/Azure CLI-compatible-brightgreen.svg" alt="Azure CLI compatible" /> 
 
+# Your Funky Mock Server
+
 <img src="https://www.dropbox.com/s/97h370w4qwf04ip/funkymock.jpg?dl=1" alt="Get your funky mock server" /> 
 
 This repo helps you getting your own mock server with your defined endpoints up and running in no time with Azure Functions. How you do this? Just follow the next few steps!
@@ -10,7 +12,7 @@ This repo helps you getting your own mock server with your defined endpoints up 
 > - Azure CLI installed. You can download it right [here](https://azure.microsoft.com/en-us/documentation/articles/xplat-cli-install)
 > - basic knowledge of node, javascript and json :)
 
-##Step 1: Configure your endpoints
+## Step 1: Configure your endpoints
 In the repository you can find two folders. One called **contactlist** and the other **chatarchive**. Enclosed you find three files in each folder.
 
 - **index.js**
@@ -28,7 +30,7 @@ What you can do now: Just add folders of this structure on your own behalf and m
 
 As soon as you are done with configuring your endpoints aka creating new folders, we can go on and deploy those!
 
-##Step 2: Deploy your ser... eh functions!
+## Step 2: Deploy your ser... eh functions!
 
 Here comes Azure CLI into play and the ARM templates which you find in the folder **arm_deployment**. The template has everything in place to tell Azure which resources should be provisioned for you. 
 Just open the arm_fun.parameter.json file and choose a name for your deployment. That's all regarding configuration for you.
@@ -52,7 +54,7 @@ Yours is in there? Perfect! So let's deploy the functions!
 
 And within a few seconds you should see a success listed for you in the command line. Done! We have our services up and running. Now we have to do the last step - add our soure code and get our endpoints running.
 
-##Step 3: Attach the source code
+## Step 3: Attach the source code
 
 We don't want to manage our code in the Azure portal so we just link the source code to our newly deployed function.
 Login to the [Azure portal](https://portal.azure.com) for this and go to **Resource groups** in the menu. Then open up your newly created one where you can see the three resources you just created via command line.
