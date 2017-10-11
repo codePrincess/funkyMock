@@ -2,7 +2,7 @@
 
 # Your Funky Mock Server
 
-<img src="https://lh5.googleusercontent.com/g2PChji8oZwZM3UJlRrcRycRQiKw08bsMCf5mvuNDDxLk_98xDNm6c2S976DLd2IApr0fx4vTQQZRi4=w1808-h1158-rw" alt="Get your funky mock server" /> 
+<img src="https://dl.dropboxusercontent.com/s/97h370w4qwf04ip/funkymock.jpg" alt="Get your funky mock server" /> 
 
 This repo helps you getting your own mock server with your defined endpoints up and running in no time with Azure Functions. How you do this? Just follow the next few steps!
 
